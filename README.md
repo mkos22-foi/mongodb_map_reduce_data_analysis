@@ -12,6 +12,7 @@
 ├── data/                    # Početni i finalni skupovi podataka
 ├── database/                # Exportane MongoDB kolekcije (rezultati MapReduce upita)
 ├── main.ipynb               # Glavna Jupyter notebook aplikacija
+├── mapreduce.js             # Skripta za pokretanje Map/Reduce funkcija
 ├── requirements.txt         # Python ovisnosti
 └──README.md                 # Upute za pokretanje projekta
 ```
@@ -43,5 +44,7 @@ U datoteci `main.ipynb` potrebno je promijeniti konfiguraciju konekcije na local
 Aplikacija se pokreće preko `main.ipynb` datoteke. Potrebno je redom pokretati ćelije.
 
 ### 6) Map/Reduce funkcije
-MapReduce funkcije napisane su u JavaScript jeziku i pokreću se u MongoDB shellu, a ne u Pythonu.
-Nakon izvršavanja Map/Reduce funkcija, ćelije u `.ipynb` datoteci se mogu nastaviti izvršavati kako bi se dobili statistički i grafički rezultati.
+MapReduce funkcije napisane su u JavaScript jeziku i pokreću se u MongoDB shellu, a ne u Pythonu. Izvršavaju se pokretanjem skripte `mapreduce.js` sljedećom naredbom:
+```bash
+mongosh mapreduce.js
+```
