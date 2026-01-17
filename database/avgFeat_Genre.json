@@ -1,0 +1,912 @@
+[{
+  "_id": "power-pop",
+  "value": {
+    "avg_danceability": 0.4735230923694776,
+    "avg_loudness": -6.685469879518078,
+    "avg_tempo": 134.60367068273115
+  }
+},
+{
+  "_id": "dance",
+  "value": {
+    "avg_danceability": 0.6876549222797927,
+    "avg_loudness": -5.333689119170985,
+    "avg_tempo": 120.43601658031108
+  }
+},
+{
+  "_id": "malay",
+  "value": {
+    "avg_danceability": 0.6286036036036017,
+    "avg_loudness": -8.373361361361372,
+    "avg_tempo": 119.30001101101107
+  }
+},
+{
+  "_id": "club",
+  "value": {
+    "avg_danceability": 0.6037408040201008,
+    "avg_loudness": -6.884333668341704,
+    "avg_tempo": 123.30708643216086
+  }
+},
+{
+  "_id": "ambient",
+  "value": {
+    "avg_danceability": 0.3679657657657664,
+    "avg_loudness": -18.596266266266273,
+    "avg_tempo": 111.1564134134135
+  }
+},
+{
+  "_id": "psych-rock",
+  "value": {
+    "avg_danceability": 0.5025160642570261,
+    "avg_loudness": -9.987384538152613,
+    "avg_tempo": 121.53349297188737
+  }
+},
+{
+  "_id": "spanish",
+  "value": {
+    "avg_danceability": 0.6043100000000007,
+    "avg_loudness": -6.486594000000019,
+    "avg_tempo": 122.83243699999984
+  }
+},
+{
+  "_id": "emo",
+  "value": {
+    "avg_danceability": 0.5993210000000003,
+    "avg_loudness": -6.718620999999994,
+    "avg_tempo": 126.99264299999997
+  }
+},
+{
+  "_id": "grunge",
+  "value": {
+    "avg_danceability": 0.45705305305305266,
+    "avg_loudness": -5.66161061061061,
+    "avg_tempo": 129.33790290290312
+  }
+},
+{
+  "_id": "rock-n-roll",
+  "value": {
+    "avg_danceability": 0.5503020000000021,
+    "avg_loudness": -9.38160300000001,
+    "avg_tempo": 120.39001700000011
+  }
+},
+{
+  "_id": "salsa",
+  "value": {
+    "avg_danceability": 0.6681973947895792,
+    "avg_loudness": -6.928846693386769,
+    "avg_tempo": 119.8276843687374
+  }
+},
+{
+  "_id": "mpb",
+  "value": {
+    "avg_danceability": 0.5740879999999999,
+    "avg_loudness": -9.11040800000001,
+    "avg_tempo": 120.16105499999976
+  }
+},
+{
+  "_id": "progressive-house",
+  "value": {
+    "avg_danceability": 0.6239529529529527,
+    "avg_loudness": -5.422194194194201,
+    "avg_tempo": 125.09072872872869
+  }
+},
+{
+  "_id": "pop",
+  "value": {
+    "avg_danceability": 0.630407854984894,
+    "avg_loudness": -6.970699899295067,
+    "avg_tempo": 120.88139879154072
+  }
+},
+{
+  "_id": "electronic",
+  "value": {
+    "avg_danceability": 0.6529450000000001,
+    "avg_loudness": -7.142962999999994,
+    "avg_tempo": 122.94783900000002
+  }
+},
+{
+  "_id": "anime",
+  "value": {
+    "avg_danceability": 0.537516916916917,
+    "avg_loudness": -7.938441441441439,
+    "avg_tempo": 123.54965365365368
+  }
+},
+{
+  "_id": "house",
+  "value": {
+    "avg_danceability": 0.6684854854854868,
+    "avg_loudness": -5.264155155155162,
+    "avg_tempo": 121.11801501501517
+  }
+},
+{
+  "_id": "bluegrass",
+  "value": {
+    "avg_danceability": 0.5347715430861726,
+    "avg_loudness": -9.917164328657305,
+    "avg_tempo": 126.62065631262534
+  }
+},
+{
+  "_id": "drum-and-bass",
+  "value": {
+    "avg_danceability": 0.5357339357429721,
+    "avg_loudness": -4.164519076305219,
+    "avg_tempo": 155.25464357429712
+  }
+},
+{
+  "_id": "new-age",
+  "value": {
+    "avg_danceability": 0.34800160965794696,
+    "avg_loudness": -18.524356136820955,
+    "avg_tempo": 107.91794969818932
+  }
+},
+{
+  "_id": "death-metal",
+  "value": {
+    "avg_danceability": 0.368318218218218,
+    "avg_loudness": -5.347288288288287,
+    "avg_tempo": 123.76279679679679
+  }
+},
+{
+  "_id": "alternative",
+  "value": {
+    "avg_danceability": 0.5599629629629628,
+    "avg_loudness": -6.076191191191207,
+    "avg_tempo": 122.20776876876894
+  }
+},
+{
+  "_id": "goth",
+  "value": {
+    "avg_danceability": 0.47855355355355306,
+    "avg_loudness": -7.16136236236237,
+    "avg_tempo": 124.3089039039039
+  }
+},
+{
+  "_id": "disney",
+  "value": {
+    "avg_danceability": 0.4630302302302298,
+    "avg_loudness": -14.967937937937958,
+    "avg_tempo": 112.04538738738722
+  }
+},
+{
+  "_id": "brazil",
+  "value": {
+    "avg_danceability": 0.563174348697395,
+    "avg_loudness": -7.601959919839682,
+    "avg_tempo": 121.96297194388772
+  }
+},
+{
+  "_id": "french",
+  "value": {
+    "avg_danceability": 0.6515301301301304,
+    "avg_loudness": -8.853756756756766,
+    "avg_tempo": 117.79386786786793
+  }
+},
+{
+  "_id": "hardstyle",
+  "value": {
+    "avg_danceability": 0.5394108216432866,
+    "avg_loudness": -4.347459919839676,
+    "avg_tempo": 146.90585871743474
+  }
+},
+{
+  "_id": "forro",
+  "value": {
+    "avg_danceability": 0.6499468937875755,
+    "avg_loudness": -5.122070140280558,
+    "avg_tempo": 140.35065631262492
+  }
+},
+{
+  "_id": "dub",
+  "value": {
+    "avg_danceability": 0.5755155155155155,
+    "avg_loudness": -6.046363363363374,
+    "avg_tempo": 129.50659659659658
+  }
+},
+{
+  "_id": "grindcore",
+  "value": {
+    "avg_danceability": 0.2720768537074151,
+    "avg_loudness": -6.238946893787575,
+    "avg_tempo": 119.2681823647297
+  }
+},
+{
+  "_id": "breakbeat",
+  "value": {
+    "avg_danceability": 0.6461431431431437,
+    "avg_loudness": -6.0279389389389335,
+    "avg_tempo": 133.04220020020009
+  }
+},
+{
+  "_id": "hardcore",
+  "value": {
+    "avg_danceability": 0.5466206206206204,
+    "avg_loudness": -5.7774254254254265,
+    "avg_tempo": 125.32543643643648
+  }
+},
+{
+  "_id": "cantopop",
+  "value": {
+    "avg_danceability": 0.5479019019019016,
+    "avg_loudness": -9.661862862862867,
+    "avg_tempo": 124.26351151151148
+  }
+},
+{
+  "_id": "german",
+  "value": {
+    "avg_danceability": 0.5300433021806857,
+    "avg_loudness": -11.167963655244016,
+    "avg_tempo": 117.49519210799586
+  }
+},
+{
+  "_id": "trance",
+  "value": {
+    "avg_danceability": 0.5832992992993002,
+    "avg_loudness": -6.327486486486489,
+    "avg_tempo": 133.28702602602613
+  }
+},
+{
+  "_id": "folk",
+  "value": {
+    "avg_danceability": 0.5585525525525525,
+    "avg_loudness": -9.031366366366381,
+    "avg_tempo": 118.45262962962951
+  }
+},
+{
+  "_id": "swedish",
+  "value": {
+    "avg_danceability": 0.5904129999999995,
+    "avg_loudness": -7.776523000000018,
+    "avg_tempo": 121.09452299999998
+  }
+},
+{
+  "_id": "turkish",
+  "value": {
+    "avg_danceability": 0.6162072072072067,
+    "avg_loudness": -8.22055155155156,
+    "avg_tempo": 120.3678798798799
+  }
+},
+{
+  "_id": "trip-hop",
+  "value": {
+    "avg_danceability": 0.6349217652958876,
+    "avg_loudness": -9.239489468405234,
+    "avg_tempo": 118.78329388164519
+  }
+},
+{
+  "_id": "show-tunes",
+  "value": {
+    "avg_danceability": 0.46395605605605633,
+    "avg_loudness": -10.683577577577582,
+    "avg_tempo": 114.38588388388386
+  }
+},
+{
+  "_id": "tango",
+  "value": {
+    "avg_danceability": 0.5378620000000002,
+    "avg_loudness": -10.062361000000012,
+    "avg_tempo": 114.5543199999999
+  }
+},
+{
+  "_id": "british",
+  "value": {
+    "avg_danceability": 0.5012757999999998,
+    "avg_loudness": -10.519963000000008,
+    "avg_tempo": 118.82861700000007
+  }
+},
+{
+  "_id": "gospel",
+  "value": {
+    "avg_danceability": 0.4732972972972974,
+    "avg_loudness": -7.193607607607608,
+    "avg_tempo": 125.67478078078084
+  }
+},
+{
+  "_id": "metal",
+  "value": {
+    "avg_danceability": 0.46432765531062076,
+    "avg_loudness": -5.4257665330661355,
+    "avg_tempo": 127.91924749498993
+  }
+},
+{
+  "_id": "reggaeton",
+  "value": {
+    "avg_danceability": 0.758520999999999,
+    "avg_loudness": -4.987124000000005,
+    "avg_tempo": 118.87240299999992
+  }
+},
+{
+  "_id": "r-n-b",
+  "value": {
+    "avg_danceability": 0.6143880000000017,
+    "avg_loudness": -7.539444000000007,
+    "avg_tempo": 124.03893899999997
+  }
+},
+{
+  "_id": "synth-pop",
+  "value": {
+    "avg_danceability": 0.6206629999999995,
+    "avg_loudness": -8.204640999999981,
+    "avg_tempo": 122.85003200000001
+  }
+},
+{
+  "_id": "soul",
+  "value": {
+    "avg_danceability": 0.6000210210210217,
+    "avg_loudness": -8.288617617617609,
+    "avg_tempo": 114.59690490490472
+  }
+},
+{
+  "_id": "idm",
+  "value": {
+    "avg_danceability": 0.5274834669338676,
+    "avg_loudness": -12.41585470941883,
+    "avg_tempo": 123.25401903807608
+  }
+},
+{
+  "_id": "children",
+  "value": {
+    "avg_danceability": 0.7164759519038059,
+    "avg_loudness": -9.411631262525034,
+    "avg_tempo": 123.36938577154295
+  }
+},
+{
+  "_id": "guitar",
+  "value": {
+    "avg_danceability": 0.5403787787787786,
+    "avg_loudness": -14.041552552552542,
+    "avg_tempo": 111.98887487487471
+  }
+},
+{
+  "_id": "party",
+  "value": {
+    "avg_danceability": 0.6671569416498997,
+    "avg_loudness": -4.411034205231384,
+    "avg_tempo": 131.32309054325938
+  }
+},
+{
+  "_id": "singer-songwriter",
+  "value": {
+    "avg_danceability": 0.5620220000000002,
+    "avg_loudness": -9.779510999999992,
+    "avg_tempo": 119.73732199999984
+  }
+},
+{
+  "_id": "sad",
+  "value": {
+    "avg_danceability": 0.6923779999999996,
+    "avg_loudness": -10.275018000000005,
+    "avg_tempo": 119.0649500000001
+  }
+},
+{
+  "_id": "edm",
+  "value": {
+    "avg_danceability": 0.6483846928499514,
+    "avg_loudness": -5.275981873111774,
+    "avg_tempo": 122.05445417925473
+  }
+},
+{
+  "_id": "alt-rock",
+  "value": {
+    "avg_danceability": 0.5346006006006011,
+    "avg_loudness": -6.1940090090090205,
+    "avg_tempo": 124.6544034034035
+  }
+},
+{
+  "_id": "mandopop",
+  "value": {
+    "avg_danceability": 0.5465320000000004,
+    "avg_loudness": -8.176785000000013,
+    "avg_tempo": 123.4759059999999
+  }
+},
+{
+  "_id": "sleep",
+  "value": {
+    "avg_danceability": 0.16792249999999995,
+    "avg_loudness": -24.19408399999997,
+    "avg_tempo": 84.61949099999997
+  }
+},
+{
+  "_id": "latino",
+  "value": {
+    "avg_danceability": 0.7573957703927475,
+    "avg_loudness": -5.18513192346426,
+    "avg_tempo": 119.37071802618317
+  }
+},
+{
+  "_id": "punk",
+  "value": {
+    "avg_danceability": 0.4996556556556556,
+    "avg_loudness": -5.729647647647654,
+    "avg_tempo": 133.60912212212216
+  }
+},
+{
+  "_id": "k-pop",
+  "value": {
+    "avg_danceability": 0.6477234468937869,
+    "avg_loudness": -6.464936873747497,
+    "avg_tempo": 119.23156312625271
+  }
+},
+{
+  "_id": "reggae",
+  "value": {
+    "avg_danceability": 0.7453309999999987,
+    "avg_loudness": -5.2923950000000115,
+    "avg_tempo": 119.86760199999978
+  }
+},
+{
+  "_id": "groove",
+  "value": {
+    "avg_danceability": 0.5840831663326649,
+    "avg_loudness": -6.40496392785571,
+    "avg_tempo": 123.741390781563
+  }
+},
+{
+  "_id": "comedy",
+  "value": {
+    "avg_danceability": 0.5774036144578298,
+    "avg_loudness": -10.449451807228902,
+    "avg_tempo": 100.93387148594388
+  }
+},
+{
+  "_id": "dubstep",
+  "value": {
+    "avg_danceability": 0.518008008008008,
+    "avg_loudness": -5.063952952952961,
+    "avg_tempo": 133.6633973973973
+  }
+},
+{
+  "_id": "hard-rock",
+  "value": {
+    "avg_danceability": 0.48223647294589184,
+    "avg_loudness": -6.744859719438862,
+    "avg_tempo": 125.3658086172344
+  }
+},
+{
+  "_id": "dancehall",
+  "value": {
+    "avg_danceability": 0.734082082082082,
+    "avg_loudness": -6.118947947947964,
+    "avg_tempo": 112.89906806806793
+  }
+},
+{
+  "_id": "industrial",
+  "value": {
+    "avg_danceability": 0.5304159999999994,
+    "avg_loudness": -6.024399000000001,
+    "avg_tempo": 126.83120499999987
+  }
+},
+{
+  "_id": "rock",
+  "value": {
+    "avg_danceability": 0.5436090000000003,
+    "avg_loudness": -6.664480999999984,
+    "avg_tempo": 126.32123800000008
+  }
+},
+{
+  "_id": "indian",
+  "value": {
+    "avg_danceability": 0.5924244244244246,
+    "avg_loudness": -8.848357357357358,
+    "avg_tempo": 116.1391401401402
+  }
+},
+{
+  "_id": "blues",
+  "value": {
+    "avg_danceability": 0.5685370741482971,
+    "avg_loudness": -8.521332665330663,
+    "avg_tempo": 116.63287074148283
+  }
+},
+{
+  "_id": "indie",
+  "value": {
+    "avg_danceability": 0.5872878635907725,
+    "avg_loudness": -8.276674022066198,
+    "avg_tempo": 118.99515747241739
+  }
+},
+{
+  "_id": "electro",
+  "value": {
+    "avg_danceability": 0.6515040080160318,
+    "avg_loudness": -6.130143286573152,
+    "avg_tempo": 120.88684769539086
+  }
+},
+{
+  "_id": "opera",
+  "value": {
+    "avg_danceability": 0.31321683467741934,
+    "avg_loudness": -13.590145161290293,
+    "avg_tempo": 105.59264919354841
+  }
+},
+{
+  "_id": "iranian",
+  "value": {
+    "avg_danceability": 0.30034716599190264,
+    "avg_loudness": -13.123409919028338,
+    "avg_tempo": 114.61782085020234
+  }
+},
+{
+  "_id": "detroit-techno",
+  "value": {
+    "avg_danceability": 0.722465931863727,
+    "avg_loudness": -11.089171342685372,
+    "avg_tempo": 126.59767034068152
+  }
+},
+{
+  "_id": "sertanejo",
+  "value": {
+    "avg_danceability": 0.5916470000000003,
+    "avg_loudness": -5.485445,
+    "avg_tempo": 127.0521969999998
+  }
+},
+{
+  "_id": "j-pop",
+  "value": {
+    "avg_danceability": 0.5517354709418836,
+    "avg_loudness": -6.259991983967938,
+    "avg_tempo": 124.69469639278546
+  }
+},
+{
+  "_id": "kids",
+  "value": {
+    "avg_danceability": 0.7786296670030275,
+    "avg_loudness": -8.10864883955601,
+    "avg_tempo": 121.78339757820387
+  }
+},
+{
+  "_id": "disco",
+  "value": {
+    "avg_danceability": 0.6766919999999987,
+    "avg_loudness": -7.422031999999997,
+    "avg_tempo": 121.97438000000001
+  }
+},
+{
+  "_id": "world-music",
+  "value": {
+    "avg_danceability": 0.4144994994994998,
+    "avg_loudness": -9.421907907907892,
+    "avg_tempo": 121.4101001001002
+  }
+},
+{
+  "_id": "techno",
+  "value": {
+    "avg_danceability": 0.684347999999999,
+    "avg_loudness": -8.077874000000005,
+    "avg_tempo": 128.25548200000014
+  }
+},
+{
+  "_id": "songwriter",
+  "value": {
+    "avg_danceability": 0.5620220000000002,
+    "avg_loudness": -9.779510999999992,
+    "avg_tempo": 119.73732199999984
+  }
+},
+{
+  "_id": "samba",
+  "value": {
+    "avg_danceability": 0.5748969999999995,
+    "avg_loudness": -8.490191999999999,
+    "avg_tempo": 118.12236099999987
+  }
+},
+{
+  "_id": "chill",
+  "value": {
+    "avg_danceability": 0.6642072072072083,
+    "avg_loudness": -10.466774774774764,
+    "avg_tempo": 115.48886486486487
+  }
+},
+{
+  "_id": "pagode",
+  "value": {
+    "avg_danceability": 0.5777230000000005,
+    "avg_loudness": -7.268762999999997,
+    "avg_tempo": 126.85930799999996
+  }
+},
+{
+  "_id": "punk-rock",
+  "value": {
+    "avg_danceability": 0.5073290000000003,
+    "avg_loudness": -5.91650100000001,
+    "avg_tempo": 132.21902500000016
+  }
+},
+{
+  "_id": "rockabilly",
+  "value": {
+    "avg_danceability": 0.5611861861861871,
+    "avg_loudness": -8.204841841841857,
+    "avg_tempo": 123.65703703703672
+  }
+},
+{
+  "_id": "acoustic",
+  "value": {
+    "avg_danceability": 0.5495930000000007,
+    "avg_loudness": -9.447843000000013,
+    "avg_tempo": 119.01062399999988
+  }
+},
+{
+  "_id": "minimal-techno",
+  "value": {
+    "avg_danceability": 0.729315631262524,
+    "avg_loudness": -9.780443887775547,
+    "avg_tempo": 124.75148296593196
+  }
+},
+{
+  "_id": "indie-pop",
+  "value": {
+    "avg_danceability": 0.6043699999999996,
+    "avg_loudness": -7.996607000000012,
+    "avg_tempo": 120.17900900000008
+  }
+},
+{
+  "_id": "hip-hop",
+  "value": {
+    "avg_danceability": 0.7359374369323906,
+    "avg_loudness": -5.9935398587285755,
+    "avg_tempo": 116.56986074672012
+  }
+},
+{
+  "_id": "j-rock",
+  "value": {
+    "avg_danceability": 0.5090689999999998,
+    "avg_loudness": -5.693654999999999,
+    "avg_tempo": 128.522442
+  }
+},
+{
+  "_id": "j-idol",
+  "value": {
+    "avg_danceability": 0.5487577577577578,
+    "avg_loudness": -3.77391291291291,
+    "avg_tempo": 136.09808608608589
+  }
+},
+{
+  "_id": "funk",
+  "value": {
+    "avg_danceability": 0.6781839999999998,
+    "avg_loudness": -6.503945999999999,
+    "avg_tempo": 117.75582299999982
+  }
+},
+{
+  "_id": "black-metal",
+  "value": {
+    "avg_danceability": 0.296669909729188,
+    "avg_loudness": -6.528497492477429,
+    "avg_tempo": 128.59212236710133
+  }
+},
+{
+  "_id": "chicago-house",
+  "value": {
+    "avg_danceability": 0.7662404809619234,
+    "avg_loudness": -9.15560921843688,
+    "avg_tempo": 123.90862825651286
+  }
+},
+{
+  "_id": "pop-film",
+  "value": {
+    "avg_danceability": 0.5972602602602595,
+    "avg_loudness": -7.873569569569564,
+    "avg_tempo": 117.29098698698702
+  }
+},
+{
+  "_id": "deep-house",
+  "value": {
+    "avg_danceability": 0.7105180360721441,
+    "avg_loudness": -6.971884769539092,
+    "avg_tempo": 120.8896462925851
+  }
+},
+{
+  "_id": "piano",
+  "value": {
+    "avg_danceability": 0.45526182364729406,
+    "avg_loudness": -16.995641282565124,
+    "avg_tempo": 118.05614929859746
+  }
+},
+{
+  "_id": "ska",
+  "value": {
+    "avg_danceability": 0.5806760000000004,
+    "avg_loudness": -6.352838999999993,
+    "avg_tempo": 128.33834099999999
+  }
+},
+{
+  "_id": "jazz",
+  "value": {
+    "avg_danceability": 0.5098918918918922,
+    "avg_loudness": -11.57537937937932,
+    "avg_tempo": 112.68286886886872
+  }
+},
+{
+  "_id": "metalcore",
+  "value": {
+    "avg_danceability": 0.42380000000000023,
+    "avg_loudness": -4.457694000000002,
+    "avg_tempo": 130.58019500000015
+  }
+},
+{
+  "_id": "classical",
+  "value": {
+    "avg_danceability": 0.38195905680600234,
+    "avg_loudness": -19.968859592711688,
+    "avg_tempo": 108.04733226152203
+  }
+},
+{
+  "_id": "romance",
+  "value": {
+    "avg_danceability": 0.43153672566371604,
+    "avg_loudness": -13.093486725663713,
+    "avg_tempo": 109.81713716814157
+  }
+},
+{
+  "_id": "honky-tonk",
+  "value": {
+    "avg_danceability": 0.5715239551478076,
+    "avg_loudness": -11.73413251783893,
+    "avg_tempo": 116.6157655453619
+  }
+},
+{
+  "_id": "heavy-metal",
+  "value": {
+    "avg_danceability": 0.4284285571142282,
+    "avg_loudness": -5.746254509018038,
+    "avg_tempo": 126.61172945891772
+  }
+},
+{
+  "_id": "country",
+  "value": {
+    "avg_danceability": 0.5552939999999992,
+    "avg_loudness": -7.281778000000008,
+    "avg_tempo": 123.96330699999973
+  }
+},
+{
+  "_id": "afrobeat",
+  "value": {
+    "avg_danceability": 0.6694084084084087,
+    "avg_loudness": -7.789598598598601,
+    "avg_tempo": 119.24205705705702
+  }
+},
+{
+  "_id": "j-dance",
+  "value": {
+    "avg_danceability": 0.6802567975830812,
+    "avg_loudness": -6.070189325276946,
+    "avg_tempo": 114.9267311178247
+  }
+},
+{
+  "_id": "happy",
+  "value": {
+    "avg_danceability": 0.5526966966966975,
+    "avg_loudness": -5.416321321321315,
+    "avg_tempo": 152.92087587587585
+  }
+},
+{
+  "_id": "garage",
+  "value": {
+    "avg_danceability": 0.48426440000000054,
+    "avg_loudness": -6.553585999999997,
+    "avg_tempo": 127.04821500000016
+  }
+},
+{
+  "_id": "study",
+  "value": {
+    "avg_danceability": 0.6852515030060109,
+    "avg_loudness": -10.847477955911833,
+    "avg_tempo": 111.81752805611218
+  }
+},
+{
+  "_id": "latin",
+  "value": {
+    "avg_danceability": 0.7214101010101003,
+    "avg_loudness": -5.271796969696977,
+    "avg_tempo": 119.82855151515113
+  }
+}]

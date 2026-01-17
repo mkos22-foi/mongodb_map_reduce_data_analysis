@@ -1,0 +1,160 @@
+[{
+  "_id": "power-pop",
+  "value": 7
+},
+{
+  "_id": "alt-rock",
+  "value": 2
+},
+{
+  "_id": "acoustic",
+  "value": 1
+},
+{
+  "_id": "rock",
+  "value": 2
+},
+{
+  "_id": "dub",
+  "value": 7
+},
+{
+  "_id": "hard-rock",
+  "value": 9
+},
+{
+  "_id": "groove",
+  "value": 11
+},
+{
+  "_id": "hardcore",
+  "value": 6
+},
+{
+  "_id": "funk",
+  "value": 1
+},
+{
+  "_id": "dance",
+  "value": 8
+},
+{
+  "_id": "hip-hop",
+  "value": 5
+},
+{
+  "_id": "industrial",
+  "value": 5
+},
+{
+  "_id": "trance",
+  "value": 4
+},
+{
+  "_id": "rockabilly",
+  "value": 4
+},
+{
+  "_id": "piano",
+  "value": 5
+},
+{
+  "_id": "electro",
+  "value": 10
+},
+{
+  "_id": "indie",
+  "value": 5
+},
+{
+  "_id": "metalcore",
+  "value": 11
+},
+{
+  "_id": "psych-rock",
+  "value": 2
+},
+{
+  "_id": "folk",
+  "value": 3
+},
+{
+  "_id": "blues",
+  "value": 6
+},
+{
+  "_id": "progressive-house",
+  "value": 8
+},
+{
+  "_id": "british",
+  "value": 1
+},
+{
+  "_id": "techno",
+  "value": 1
+},
+{
+  "_id": "house",
+  "value": 13
+},
+{
+  "_id": "drum-and-bass",
+  "value": 1
+},
+{
+  "_id": "metal",
+  "value": 9
+},
+{
+  "_id": "grunge",
+  "value": 2
+},
+{
+  "_id": "soul",
+  "value": 1
+},
+{
+  "_id": "pop",
+  "value": 9
+},
+{
+  "_id": "indie-pop",
+  "value": 6
+},
+{
+  "_id": "dubstep",
+  "value": 7
+},
+{
+  "_id": "edm",
+  "value": 9
+},
+{
+  "_id": "garage",
+  "value": 19
+},
+{
+  "_id": "punk-rock",
+  "value": 3
+},
+{
+  "_id": "synth-pop",
+  "value": 1
+},
+{
+  "_id": "punk",
+  "value": 2
+},
+{
+  "_id": "country",
+  "value": 1
+},
+{
+  "_id": "french",
+  "value": 1
+},
+{
+  "_id": "k-pop",
+  "value": 23
+}]

@@ -1,0 +1,456 @@
+[{
+  "_id": "pop",
+  "value": 993
+},
+{
+  "_id": "ska",
+  "value": 1000
+},
+{
+  "_id": "rock-n-roll",
+  "value": 1000
+},
+{
+  "_id": "drum-and-bass",
+  "value": 996
+},
+{
+  "_id": "deep-house",
+  "value": 998
+},
+{
+  "_id": "black-metal",
+  "value": 997
+},
+{
+  "_id": "piano",
+  "value": 998
+},
+{
+  "_id": "classical",
+  "value": 933
+},
+{
+  "_id": "metalcore",
+  "value": 1000
+},
+{
+  "_id": "hip-hop",
+  "value": 991
+},
+{
+  "_id": "minimal-techno",
+  "value": 998
+},
+{
+  "_id": "chicago-house",
+  "value": 998
+},
+{
+  "_id": "funk",
+  "value": 1000
+},
+{
+  "_id": "jazz",
+  "value": 999
+},
+{
+  "_id": "rockabilly",
+  "value": 999
+},
+{
+  "_id": "j-idol",
+  "value": 999
+},
+{
+  "_id": "pop-film",
+  "value": 999
+},
+{
+  "_id": "happy",
+  "value": 999
+},
+{
+  "_id": "garage",
+  "value": 1000
+},
+{
+  "_id": "j-dance",
+  "value": 993
+},
+{
+  "_id": "country",
+  "value": 1000
+},
+{
+  "_id": "j-rock",
+  "value": 1000
+},
+{
+  "_id": "latin",
+  "value": 990
+},
+{
+  "_id": "afrobeat",
+  "value": 999
+},
+{
+  "_id": "study",
+  "value": 998
+},
+{
+  "_id": "romance",
+  "value": 904
+},
+{
+  "_id": "heavy-metal",
+  "value": 998
+},
+{
+  "_id": "honky-tonk",
+  "value": 981
+},
+{
+  "_id": "opera",
+  "value": 992
+},
+{
+  "_id": "indie",
+  "value": 997
+},
+{
+  "_id": "blues",
+  "value": 998
+},
+{
+  "_id": "electro",
+  "value": 998
+},
+{
+  "_id": "sertanejo",
+  "value": 1000
+},
+{
+  "_id": "detroit-techno",
+  "value": 998
+},
+{
+  "_id": "iranian",
+  "value": 988
+},
+{
+  "_id": "j-pop",
+  "value": 998
+},
+{
+  "_id": "comedy",
+  "value": 996
+},
+{
+  "_id": "hard-rock",
+  "value": 998
+},
+{
+  "_id": "indian",
+  "value": 999
+},
+{
+  "_id": "industrial",
+  "value": 1000
+},
+{
+  "_id": "groove",
+  "value": 998
+},
+{
+  "_id": "pagode",
+  "value": 1000
+},
+{
+  "_id": "indie-pop",
+  "value": 1000
+},
+{
+  "_id": "punk-rock",
+  "value": 1000
+},
+{
+  "_id": "songwriter",
+  "value": 1000
+},
+{
+  "_id": "acoustic",
+  "value": 1000
+},
+{
+  "_id": "samba",
+  "value": 1000
+},
+{
+  "_id": "world-music",
+  "value": 999
+},
+{
+  "_id": "techno",
+  "value": 1000
+},
+{
+  "_id": "disco",
+  "value": 1000
+},
+{
+  "_id": "chill",
+  "value": 999
+},
+{
+  "_id": "kids",
+  "value": 991
+},
+{
+  "_id": "tango",
+  "value": 1000
+},
+{
+  "_id": "turkish",
+  "value": 999
+},
+{
+  "_id": "swedish",
+  "value": 1000
+},
+{
+  "_id": "folk",
+  "value": 999
+},
+{
+  "_id": "show-tunes",
+  "value": 999
+},
+{
+  "_id": "grindcore",
+  "value": 998
+},
+{
+  "_id": "hardcore",
+  "value": 999
+},
+{
+  "_id": "dub",
+  "value": 999
+},
+{
+  "_id": "forro",
+  "value": 998
+},
+{
+  "_id": "trip-hop",
+  "value": 997
+},
+{
+  "_id": "german",
+  "value": 963
+},
+{
+  "_id": "trance",
+  "value": 999
+},
+{
+  "_id": "breakbeat",
+  "value": 999
+},
+{
+  "_id": "cantopop",
+  "value": 999
+},
+{
+  "_id": "reggae",
+  "value": 1000
+},
+{
+  "_id": "sad",
+  "value": 1000
+},
+{
+  "_id": "edm",
+  "value": 993
+},
+{
+  "_id": "alt-rock",
+  "value": 999
+},
+{
+  "_id": "guitar",
+  "value": 999
+},
+{
+  "_id": "punk",
+  "value": 999
+},
+{
+  "_id": "k-pop",
+  "value": 998
+},
+{
+  "_id": "rock",
+  "value": 1000
+},
+{
+  "_id": "dubstep",
+  "value": 999
+},
+{
+  "_id": "latino",
+  "value": 993
+},
+{
+  "_id": "metal",
+  "value": 998
+},
+{
+  "_id": "gospel",
+  "value": 999
+},
+{
+  "_id": "sleep",
+  "value": 1000
+},
+{
+  "_id": "dancehall",
+  "value": 999
+},
+{
+  "_id": "british",
+  "value": 1000
+},
+{
+  "_id": "reggaeton",
+  "value": 1000
+},
+{
+  "_id": "children",
+  "value": 998
+},
+{
+  "_id": "party",
+  "value": 994
+},
+{
+  "_id": "mandopop",
+  "value": 1000
+},
+{
+  "_id": "idm",
+  "value": 998
+},
+{
+  "_id": "r-n-b",
+  "value": 1000
+},
+{
+  "_id": "synth-pop",
+  "value": 1000
+},
+{
+  "_id": "soul",
+  "value": 999
+},
+{
+  "_id": "spanish",
+  "value": 1000
+},
+{
+  "_id": "singer-songwriter",
+  "value": 1000
+},
+{
+  "_id": "psych-rock",
+  "value": 996
+},
+{
+  "_id": "mpb",
+  "value": 1000
+},
+{
+  "_id": "emo",
+  "value": 1000
+},
+{
+  "_id": "dance",
+  "value": 965
+},
+{
+  "_id": "power-pop",
+  "value": 996
+},
+{
+  "_id": "ambient",
+  "value": 999
+},
+{
+  "_id": "club",
+  "value": 995
+},
+{
+  "_id": "malay",
+  "value": 999
+},
+{
+  "_id": "death-metal",
+  "value": 999
+},
+{
+  "_id": "disney",
+  "value": 999
+},
+{
+  "_id": "alternative",
+  "value": 999
+},
+{
+  "_id": "new-age",
+  "value": 994
+},
+{
+  "_id": "hardstyle",
+  "value": 998
+},
+{
+  "_id": "french",
+  "value": 999
+},
+{
+  "_id": "brazil",
+  "value": 998
+},
+{
+  "_id": "progressive-house",
+  "value": 999
+},
+{
+  "_id": "salsa",
+  "value": 998
+},
+{
+  "_id": "grunge",
+  "value": 999
+},
+{
+  "_id": "goth",
+  "value": 999
+},
+{
+  "_id": "bluegrass",
+  "value": 998
+},
+{
+  "_id": "house",
+  "value": 999
+},
+{
+  "_id": "electronic",
+  "value": 1000
+},
+{
+  "_id": "anime",
+  "value": 999
+}]
